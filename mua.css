@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+    margin: 0; 
+    background-color: black;
+    background-image: url(image/vangoghfondo.jpg);
+    background-size: cover;
+  }
+  
+  #miBoton {
+    position: absolute;
+    top: 400px;
+    right: 340px;
+    padding: 10px;
+    background-color: #8706ff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+  }
